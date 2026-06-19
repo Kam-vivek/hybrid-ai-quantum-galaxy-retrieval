@@ -1,0 +1,4 @@
+requested_type,predicted_tag_success_rate,true_label_success_rate,mean_grover_success_probability,mean_random_baseline_probability,mean_amplification_factor,mean_invalid_probability
+Elliptical,1.0,0.6,0.9326171875,0.328125,2.8422619047619047,0.0279296875
+Lenticular,1.0,1.0,0.9341796875,0.1796875,5.198913043478261,0.0259765625
+Spiral,1.0,1.0,0.96171875,0.1953125,4.924,0.01484375

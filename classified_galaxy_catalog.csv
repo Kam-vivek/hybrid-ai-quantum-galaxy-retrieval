@@ -1,0 +1,91 @@
+row_number,sdss_name,image_path,galaxy10_class_id,galaxy10_label,galaxy_type,binary_tag,confidence,true_galaxy10_class_id,true_galaxy_type,is_correct_project_class
+0,Galaxy10_Index_15915,galaxy10_validation_images/galaxy10_15915_class1_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.8455623984336853,1,Elliptical,True
+1,Galaxy10_Index_11983,galaxy10_validation_images/galaxy10_11983_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.9077687859535217,1,Elliptical,True
+2,Galaxy10_Index_5178,galaxy10_validation_images/galaxy10_5178_class2_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.8920460343360901,2,Elliptical,True
+3,Galaxy10_Index_20878,galaxy10_validation_images/galaxy10_20878_class1_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.9498504400253296,1,Elliptical,True
+4,Galaxy10_Index_13239,galaxy10_validation_images/galaxy10_13239_class3_Elliptical.png,3,"Smooth, Cigar shaped",Elliptical,000,0.7734293937683105,3,Elliptical,True
+5,Galaxy10_Index_21627,galaxy10_validation_images/galaxy10_21627_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.5749282836914062,2,Elliptical,True
+6,Galaxy10_Index_4575,galaxy10_validation_images/galaxy10_4575_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.8616036176681519,2,Elliptical,True
+7,Galaxy10_Index_11273,galaxy10_validation_images/galaxy10_11273_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.9988893866539001,2,Elliptical,True
+8,Galaxy10_Index_3658,galaxy10_validation_images/galaxy10_3658_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.9955313801765442,2,Elliptical,True
+9,Galaxy10_Index_10979,galaxy10_validation_images/galaxy10_10979_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.9393795728683472,1,Elliptical,True
+10,Galaxy10_Index_13377,galaxy10_validation_images/galaxy10_13377_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.7169639468193054,2,Elliptical,True
+11,Galaxy10_Index_12424,galaxy10_validation_images/galaxy10_12424_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.9495132565498352,2,Elliptical,True
+12,Galaxy10_Index_5070,galaxy10_validation_images/galaxy10_5070_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.9339793920516968,1,Elliptical,True
+13,Galaxy10_Index_14023,galaxy10_validation_images/galaxy10_14023_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.9307706952095032,1,Elliptical,True
+14,Galaxy10_Index_14526,galaxy10_validation_images/galaxy10_14526_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.9870145320892334,1,Elliptical,True
+15,Galaxy10_Index_6288,galaxy10_validation_images/galaxy10_6288_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.636791467666626,2,Elliptical,True
+16,Galaxy10_Index_4843,galaxy10_validation_images/galaxy10_4843_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.9729940891265869,2,Elliptical,True
+17,Galaxy10_Index_10523,galaxy10_validation_images/galaxy10_10523_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.9778822064399719,1,Elliptical,True
+18,Galaxy10_Index_14457,galaxy10_validation_images/galaxy10_14457_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.7387697100639343,1,Elliptical,True
+19,Galaxy10_Index_3051,galaxy10_validation_images/galaxy10_3051_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.9982627034187317,2,Elliptical,True
+20,Galaxy10_Index_4222,galaxy10_validation_images/galaxy10_4222_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.8964937925338745,1,Elliptical,True
+21,Galaxy10_Index_20293,galaxy10_validation_images/galaxy10_20293_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.8905149698257446,1,Elliptical,True
+22,Galaxy10_Index_4034,galaxy10_validation_images/galaxy10_4034_class1_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.5747696757316589,1,Elliptical,True
+23,Galaxy10_Index_13037,galaxy10_validation_images/galaxy10_13037_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.9920116066932678,2,Elliptical,True
+24,Galaxy10_Index_20929,galaxy10_validation_images/galaxy10_20929_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.900940477848053,1,Elliptical,True
+25,Galaxy10_Index_14101,galaxy10_validation_images/galaxy10_14101_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.827499508857727,1,Elliptical,True
+26,Galaxy10_Index_166,galaxy10_validation_images/galaxy10_166_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.9905149936676025,2,Elliptical,True
+27,Galaxy10_Index_8161,galaxy10_validation_images/galaxy10_8161_class2_Elliptical.png,2,"Smooth, in-between round",Elliptical,000,0.5571245551109314,2,Elliptical,True
+28,Galaxy10_Index_19011,galaxy10_validation_images/galaxy10_19011_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.9956127405166626,1,Elliptical,True
+29,Galaxy10_Index_21713,galaxy10_validation_images/galaxy10_21713_class1_Elliptical.png,1,"Smooth, Completely round",Elliptical,000,0.9892939329147339,1,Elliptical,True
+30,Galaxy10_Index_16457,galaxy10_validation_images/galaxy10_16457_class0_Lenticular.png,2,"Smooth, in-between round",Elliptical,000,0.5538097620010376,0,Lenticular,False
+31,Galaxy10_Index_2836,galaxy10_validation_images/galaxy10_2836_class0_Lenticular.png,1,"Smooth, Completely round",Elliptical,000,0.8750675916671753,0,Lenticular,False
+32,Galaxy10_Index_19129,galaxy10_validation_images/galaxy10_19129_class0_Lenticular.png,1,"Smooth, Completely round",Elliptical,000,0.3919626772403717,0,Lenticular,False
+33,Galaxy10_Index_11713,galaxy10_validation_images/galaxy10_11713_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.9880311489105225,0,Lenticular,True
+34,Galaxy10_Index_20436,galaxy10_validation_images/galaxy10_20436_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.9441630244255066,0,Lenticular,True
+35,Galaxy10_Index_12633,galaxy10_validation_images/galaxy10_12633_class0_Lenticular.png,2,"Smooth, in-between round",Elliptical,000,0.9690096378326416,0,Lenticular,False
+36,Galaxy10_Index_10150,galaxy10_validation_images/galaxy10_10150_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.8653001189231873,0,Lenticular,True
+37,Galaxy10_Index_1405,galaxy10_validation_images/galaxy10_1405_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.9364998936653137,0,Lenticular,True
+38,Galaxy10_Index_17596,galaxy10_validation_images/galaxy10_17596_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.5625630021095276,0,Lenticular,True
+39,Galaxy10_Index_2149,galaxy10_validation_images/galaxy10_2149_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.7992778420448303,0,Lenticular,True
+40,Galaxy10_Index_396,galaxy10_validation_images/galaxy10_396_class0_Lenticular.png,1,"Smooth, Completely round",Elliptical,000,0.7135890126228333,0,Lenticular,False
+41,Galaxy10_Index_14819,galaxy10_validation_images/galaxy10_14819_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.6765334606170654,0,Lenticular,True
+42,Galaxy10_Index_13747,galaxy10_validation_images/galaxy10_13747_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.7152173519134521,0,Lenticular,True
+43,Galaxy10_Index_13402,galaxy10_validation_images/galaxy10_13402_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.970404326915741,0,Lenticular,True
+44,Galaxy10_Index_8774,galaxy10_validation_images/galaxy10_8774_class0_Lenticular.png,8,"Disk, Face-on, Medium Spiral",Spiral,001,0.36095938086509705,0,Lenticular,False
+45,Galaxy10_Index_8562,galaxy10_validation_images/galaxy10_8562_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.6532056331634521,0,Lenticular,True
+46,Galaxy10_Index_18032,galaxy10_validation_images/galaxy10_18032_class0_Lenticular.png,1,"Smooth, Completely round",Elliptical,000,0.8956025838851929,0,Lenticular,False
+47,Galaxy10_Index_12550,galaxy10_validation_images/galaxy10_12550_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.8189684748649597,0,Lenticular,True
+48,Galaxy10_Index_6848,galaxy10_validation_images/galaxy10_6848_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.8376575112342834,0,Lenticular,True
+49,Galaxy10_Index_2841,galaxy10_validation_images/galaxy10_2841_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.9564021229743958,0,Lenticular,True
+50,Galaxy10_Index_8137,galaxy10_validation_images/galaxy10_8137_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.6281641721725464,0,Lenticular,True
+51,Galaxy10_Index_5458,galaxy10_validation_images/galaxy10_5458_class0_Lenticular.png,2,"Smooth, in-between round",Elliptical,000,0.5664971470832825,0,Lenticular,False
+52,Galaxy10_Index_20424,galaxy10_validation_images/galaxy10_20424_class0_Lenticular.png,2,"Smooth, in-between round",Elliptical,000,0.8473200798034668,0,Lenticular,False
+53,Galaxy10_Index_7757,galaxy10_validation_images/galaxy10_7757_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.7148371934890747,0,Lenticular,True
+54,Galaxy10_Index_10154,galaxy10_validation_images/galaxy10_10154_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.8290911912918091,0,Lenticular,True
+55,Galaxy10_Index_16692,galaxy10_validation_images/galaxy10_16692_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.7117899060249329,0,Lenticular,True
+56,Galaxy10_Index_19275,galaxy10_validation_images/galaxy10_19275_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.9077545404434204,0,Lenticular,True
+57,Galaxy10_Index_13715,galaxy10_validation_images/galaxy10_13715_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.9838814735412598,0,Lenticular,True
+58,Galaxy10_Index_2286,galaxy10_validation_images/galaxy10_2286_class0_Lenticular.png,2,"Smooth, in-between round",Elliptical,000,0.8438610434532166,0,Lenticular,False
+59,Galaxy10_Index_11925,galaxy10_validation_images/galaxy10_11925_class0_Lenticular.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.941382110118866,0,Lenticular,True
+60,Galaxy10_Index_17655,galaxy10_validation_images/galaxy10_17655_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.5090407133102417,4,Spiral,True
+61,Galaxy10_Index_21754,galaxy10_validation_images/galaxy10_21754_class4_Spiral.png,6,"Disk, Edge-on, No Bulge",Spiral,001,0.6849771738052368,4,Spiral,True
+62,Galaxy10_Index_3705,galaxy10_validation_images/galaxy10_3705_class8_Spiral.png,8,"Disk, Face-on, Medium Spiral",Spiral,001,0.5682918429374695,8,Spiral,True
+63,Galaxy10_Index_18533,galaxy10_validation_images/galaxy10_18533_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.9384773373603821,4,Spiral,True
+64,Galaxy10_Index_16214,galaxy10_validation_images/galaxy10_16214_class7_Spiral.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.665019154548645,7,Spiral,False
+65,Galaxy10_Index_16904,galaxy10_validation_images/galaxy10_16904_class7_Spiral.png,2,"Smooth, in-between round",Elliptical,000,0.808262825012207,7,Spiral,False
+66,Galaxy10_Index_11038,galaxy10_validation_images/galaxy10_11038_class8_Spiral.png,8,"Disk, Face-on, Medium Spiral",Spiral,001,0.9143087267875671,8,Spiral,True
+67,Galaxy10_Index_2314,galaxy10_validation_images/galaxy10_2314_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.9752589464187622,4,Spiral,True
+68,Galaxy10_Index_9135,galaxy10_validation_images/galaxy10_9135_class6_Spiral.png,6,"Disk, Edge-on, No Bulge",Spiral,001,0.9539978504180908,6,Spiral,True
+69,Galaxy10_Index_20557,galaxy10_validation_images/galaxy10_20557_class8_Spiral.png,7,"Disk, Face-on, Tight Spiral",Spiral,001,0.4741680920124054,8,Spiral,True
+70,Galaxy10_Index_13442,galaxy10_validation_images/galaxy10_13442_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.8126057386398315,4,Spiral,True
+71,Galaxy10_Index_18104,galaxy10_validation_images/galaxy10_18104_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.908490002155304,4,Spiral,True
+72,Galaxy10_Index_19341,galaxy10_validation_images/galaxy10_19341_class7_Spiral.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.5134456753730774,7,Spiral,False
+73,Galaxy10_Index_20070,galaxy10_validation_images/galaxy10_20070_class4_Spiral.png,6,"Disk, Edge-on, No Bulge",Spiral,001,0.797789990901947,4,Spiral,True
+74,Galaxy10_Index_19659,galaxy10_validation_images/galaxy10_19659_class8_Spiral.png,7,"Disk, Face-on, Tight Spiral",Spiral,001,0.4782893657684326,8,Spiral,True
+75,Galaxy10_Index_4754,galaxy10_validation_images/galaxy10_4754_class7_Spiral.png,8,"Disk, Face-on, Medium Spiral",Spiral,001,0.48660793900489807,7,Spiral,True
+76,Galaxy10_Index_14624,galaxy10_validation_images/galaxy10_14624_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.8185558915138245,4,Spiral,True
+77,Galaxy10_Index_4221,galaxy10_validation_images/galaxy10_4221_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.9385659694671631,4,Spiral,True
+78,Galaxy10_Index_3321,galaxy10_validation_images/galaxy10_3321_class8_Spiral.png,0,"Disk, Face-on, No Spiral",Lenticular,010,0.4318973422050476,8,Spiral,False
+79,Galaxy10_Index_17683,galaxy10_validation_images/galaxy10_17683_class7_Spiral.png,7,"Disk, Face-on, Tight Spiral",Spiral,001,0.7508169412612915,7,Spiral,True
+80,Galaxy10_Index_10551,galaxy10_validation_images/galaxy10_10551_class9_Spiral.png,2,"Smooth, in-between round",Elliptical,000,0.6578101515769958,9,Spiral,False
+81,Galaxy10_Index_6000,galaxy10_validation_images/galaxy10_6000_class8_Spiral.png,8,"Disk, Face-on, Medium Spiral",Spiral,001,0.694835901260376,8,Spiral,True
+82,Galaxy10_Index_7877,galaxy10_validation_images/galaxy10_7877_class6_Spiral.png,6,"Disk, Edge-on, No Bulge",Spiral,001,0.9557200074195862,6,Spiral,True
+83,Galaxy10_Index_13891,galaxy10_validation_images/galaxy10_13891_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.953059196472168,4,Spiral,True
+84,Galaxy10_Index_18600,galaxy10_validation_images/galaxy10_18600_class6_Spiral.png,6,"Disk, Edge-on, No Bulge",Spiral,001,0.9226803183555603,6,Spiral,True
+85,Galaxy10_Index_10489,galaxy10_validation_images/galaxy10_10489_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.9454588294029236,4,Spiral,True
+86,Galaxy10_Index_19186,galaxy10_validation_images/galaxy10_19186_class7_Spiral.png,2,"Smooth, in-between round",Elliptical,000,0.9754659533500671,7,Spiral,False
+87,Galaxy10_Index_21300,galaxy10_validation_images/galaxy10_21300_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.6029292941093445,4,Spiral,True
+88,Galaxy10_Index_112,galaxy10_validation_images/galaxy10_112_class4_Spiral.png,4,"Disk, Edge-on, Rounded Bulge",Spiral,001,0.8438493013381958,4,Spiral,True
+89,Galaxy10_Index_2713,galaxy10_validation_images/galaxy10_2713_class6_Spiral.png,6,"Disk, Edge-on, No Bulge",Spiral,001,0.9529045224189758,6,Spiral,True

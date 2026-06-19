@@ -1,0 +1,4 @@
+galaxy_type,matching_rows,search_space_size,iterations,random_baseline_probability,mean_success_probability,std_success_probability,mean_amplification_factor,mean_invalid_probability
+Elliptical,42,128,1,0.328125,0.9328125,0.005875628498629434,2.8428571428571425,0.029296875
+Lenticular,23,128,1,0.1796875,0.93515625,0.004177587819571755,5.2043478260869565,0.0267578125
+Spiral,25,128,1,0.1953125,0.9572265625,0.005875628498629416,4.901,0.0162109375

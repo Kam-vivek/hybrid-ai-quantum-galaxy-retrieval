@@ -1,0 +1,16 @@
+requested_type,trial,returned_row_number,returned_predicted_type,predicted_type_success,true_type_success,grover_success_probability,random_baseline_probability,amplification_factor,invalid_probability
+Elliptical,1,29,Elliptical,True,True,0.93359375,0.328125,2.8452380952380953,0.037109375
+Elliptical,2,65,Elliptical,True,False,0.9287109375,0.328125,2.830357142857143,0.0244140625
+Elliptical,3,0,Elliptical,True,True,0.943359375,0.328125,2.875,0.0234375
+Elliptical,4,58,Elliptical,True,False,0.921875,0.328125,2.8095238095238093,0.0263671875
+Elliptical,5,3,Elliptical,True,True,0.935546875,0.328125,2.8511904761904763,0.0283203125
+Lenticular,1,53,Lenticular,True,True,0.9501953125,0.1796875,5.288043478260869,0.0166015625
+Lenticular,2,53,Lenticular,True,True,0.9326171875,0.1796875,5.190217391304348,0.029296875
+Lenticular,3,54,Lenticular,True,True,0.9306640625,0.1796875,5.179347826086956,0.0224609375
+Lenticular,4,43,Lenticular,True,True,0.9248046875,0.1796875,5.146739130434782,0.033203125
+Lenticular,5,54,Lenticular,True,True,0.9326171875,0.1796875,5.190217391304348,0.0283203125
+Spiral,1,63,Spiral,True,True,0.9658203125,0.1953125,4.945,0.017578125
+Spiral,2,68,Spiral,True,True,0.9599609375,0.1953125,4.915,0.01953125
+Spiral,3,62,Spiral,True,True,0.9541015625,0.1953125,4.885,0.0078125
+Spiral,4,60,Spiral,True,True,0.9599609375,0.1953125,4.915,0.0185546875
+Spiral,5,66,Spiral,True,True,0.96875,0.1953125,4.96,0.0107421875

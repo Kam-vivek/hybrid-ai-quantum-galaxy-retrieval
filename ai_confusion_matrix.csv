@@ -1,0 +1,4 @@
+,pred_Elliptical,pred_Lenticular,pred_Spiral
+true_Elliptical,30,0,0
+true_Lenticular,9,20,1
+true_Spiral,3,3,24
