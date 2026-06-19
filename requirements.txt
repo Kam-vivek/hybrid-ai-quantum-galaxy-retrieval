@@ -1,0 +1,12 @@
+qiskit
+qiskit-aer
+pandas
+matplotlib
+torch
+torchvision
+huggingface_hub
+pillow
+scikit-learn
+astroNN
+h5py
+numpy
